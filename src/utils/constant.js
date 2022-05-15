@@ -1,0 +1,2 @@
+export const ipDataAPIKey =
+  "94420616e1d3a86411c315f79c3f2188998e50e8556b3e40282a3396";
