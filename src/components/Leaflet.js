@@ -13,7 +13,7 @@ export default function Leaflet({ loadMap, mapPosition, ipData, setMap }) {
           style={{ width: "100%", height: "70vh" }}
         >
           <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            attribution='&copy; <a href="https://www.linkedin.com/in/sharjeelqasim/">Sharjeel Qasim</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
           <LeafletMarker
